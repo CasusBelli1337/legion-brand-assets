@@ -14,3 +14,10 @@ templates and other channels that fetch images without authentication.
 https://raw.githubusercontent.com/CasusBelli1337/legion-brand-assets/main/Logo.png
 https://raw.githubusercontent.com/CasusBelli1337/legion-brand-assets/main/Logo-White.png
 ```
+
+## Event assets
+
+Third-party images used with permission for co-marketing emails.
+
+- `events/aba-ai-robotics-2026/banner.jpg` — ABA 2026 AI & Robotics National Institute banner
+- `events/aba-ai-robotics-2026/aba-scitech-logo.png` — ABA Science & Technology Law Section logo
